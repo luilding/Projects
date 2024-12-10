@@ -1,0 +1,60 @@
+2024-11-17 04:12:06,608 - __main__ - INFO - Starting main execution
+2024-11-17 04:12:06,613 - __main__ - INFO - Data loading completed in 0.00 seconds
+2024-11-17 04:12:06,613 - __main__ - INFO - Starting geocoding for address: Southbank
+2024-11-17 04:12:07,219 - __main__ - INFO - Geocoding successful, took 0.61 seconds
+2024-11-17 04:12:07,225 - __main__ - INFO - Starting geocoding for address: Mcg
+2024-11-17 04:12:07,894 - __main__ - INFO - Geocoding successful, took 0.67 seconds
+2024-11-17 04:12:07,898 - __main__ - INFO - Finding nearest station for coordinates: (-37.8253618, 144.9640203)
+2024-11-17 04:12:07,902 - __main__ - INFO - Nearest station found in 0.00 seconds
+2024-11-17 04:12:07,902 - __main__ - INFO - Finding nearest station for coordinates: (-37.819908999999996, 144.98322500667754)
+2024-11-17 04:12:07,903 - __main__ - INFO - Nearest station found in 0.00 seconds
+2024-11-17 04:12:07,903 - __main__ - INFO - Getting route with profile: foot-walking
+2024-11-17 04:12:08,202 - __main__ - INFO - Route calculation completed in 0.30 seconds
+2024-11-17 04:12:08,203 - __main__ - INFO - Getting route with profile: foot-walking
+2024-11-17 04:12:08,449 - __main__ - INFO - Route calculation completed in 0.25 seconds
+2024-11-17 04:12:08,450 - __main__ - INFO - Getting route with profile: driving-car
+2024-11-17 04:12:08,740 - __main__ - INFO - Route calculation completed in 0.29 seconds
+2024-11-17 04:12:08,740 - __main__ - INFO - Route calculations completed in 0.84 seconds
+2024-11-17 04:12:08,740 - __main__ - INFO - Starting route visualization
+2024-11-17 04:12:08,754 - __main__ - INFO - Route visualization completed in 0.01 seconds
+2024-11-17 04:12:08,754 - __main__ - INFO - Total execution time: 2.15 seconds
+2024-11-17 04:12:57,074 - __main__ - INFO - Starting main execution
+2024-11-17 04:12:57,079 - __main__ - INFO - Data loading completed in 0.01 seconds
+2024-11-17 04:12:57,079 - __main__ - INFO - Starting geocoding for address: Southbank
+2024-11-17 04:12:57,658 - __main__ - INFO - Geocoding successful, took 0.58 seconds
+2024-11-17 04:12:57,662 - __main__ - INFO - Starting geocoding for address: Mcg
+2024-11-17 04:12:58,172 - __main__ - INFO - Geocoding successful, took 0.51 seconds
+2024-11-17 04:12:58,177 - __main__ - INFO - Finding nearest station for coordinates: (-37.8253618, 144.9640203)
+2024-11-17 04:12:58,179 - __main__ - INFO - Nearest station found in 0.00 seconds
+2024-11-17 04:12:58,179 - __main__ - INFO - Finding nearest station for coordinates: (-37.819908999999996, 144.98322500667754)
+2024-11-17 04:12:58,181 - __main__ - INFO - Nearest station found in 0.00 seconds
+2024-11-17 04:12:58,181 - __main__ - INFO - Getting route with profile: foot-walking
+2024-11-17 04:12:58,428 - __main__ - INFO - Route calculation completed in 0.25 seconds
+2024-11-17 04:12:58,429 - __main__ - INFO - Getting route with profile: foot-walking
+2024-11-17 04:12:58,649 - __main__ - INFO - Route calculation completed in 0.22 seconds
+2024-11-17 04:12:58,650 - __main__ - INFO - Getting route with profile: driving-car
+2024-11-17 04:12:58,882 - __main__ - INFO - Route calculation completed in 0.23 seconds
+2024-11-17 04:12:58,883 - __main__ - INFO - Route calculations completed in 0.70 seconds
+2024-11-17 04:12:58,883 - __main__ - INFO - Starting route visualization
+2024-11-17 04:12:58,916 - __main__ - INFO - Route visualization completed in 0.03 seconds
+2024-11-17 04:12:58,917 - __main__ - INFO - Total execution time: 1.84 seconds
+2024-11-17 04:18:44,642 - __main__ - INFO - Starting main execution
+2024-11-17 04:18:44,646 - __main__ - INFO - Data loading completed in 0.00 seconds
+2024-11-17 04:18:44,648 - __main__ - INFO - Starting geocoding for address: Southbank
+2024-11-17 04:18:44,649 - __main__ - INFO - Starting geocoding for address: Mcg
+2024-11-17 04:18:45,673 - __main__ - INFO - Geocoding successful, took 1.02 seconds
+2024-11-17 04:18:46,187 - __main__ - INFO - Geocoding successful, took 1.54 seconds
+2024-11-17 04:18:46,194 - __main__ - INFO - Finding nearest station for coordinates: (-37.8253618, 144.9640203)
+2024-11-17 04:18:46,197 - __main__ - INFO - Nearest station found in 0.00 seconds
+2024-11-17 04:18:46,198 - __main__ - INFO - Finding nearest station for coordinates: (-37.819908999999996, 144.98322500667754)
+2024-11-17 04:18:46,201 - __main__ - INFO - Nearest station found in 0.00 seconds
+2024-11-17 04:18:46,203 - __main__ - INFO - Getting route with profile: foot-walking
+2024-11-17 04:18:46,210 - __main__ - INFO - Getting route with profile: foot-walking
+2024-11-17 04:18:46,212 - __main__ - INFO - Getting route with profile: driving-car
+2024-11-17 04:18:46,510 - __main__ - INFO - Route calculation completed in 0.30 seconds
+2024-11-17 04:18:46,521 - __main__ - INFO - Route calculation completed in 0.31 seconds
+2024-11-17 04:18:46,546 - __main__ - INFO - Route calculation completed in 0.34 seconds
+2024-11-17 04:18:46,547 - __main__ - INFO - Parallel route calculations completed in 0.35 seconds
+2024-11-17 04:18:46,548 - __main__ - INFO - Starting route visualization
+2024-11-17 04:18:46,588 - __main__ - INFO - Route visualization completed in 0.04 seconds
+2024-11-17 04:18:46,588 - __main__ - INFO - Total execution time: 1.95 seconds
